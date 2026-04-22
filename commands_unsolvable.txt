@@ -1,0 +1,5 @@
+LOAD_MAZE .\maze_unsolvable.txt
+PRINT_MAZE
+SOLVE
+PRINT_PATH
+QUIT

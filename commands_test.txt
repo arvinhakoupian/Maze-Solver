@@ -1,0 +1,9 @@
+# Test command file for Maze Solver
+# Update maze_test.txt to your maze file path if needed.
+LOAD_MAZE .\maze_test.txt
+PRINT_MAZE
+SOLVE
+PRINT_PATH
+CLEAR
+PRINT_MAZE
+QUIT
