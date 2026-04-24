@@ -1,0 +1,7 @@
+# Command and argument validation checks
+FOO
+LOAD_MAZE
+LOAD_MAZE .\maze_edge_long_path.txt EXTRA_TOKEN
+LOAD_MAZE .\maze_edge_long_path.txt
+PRINT_MAZE
+QUIT

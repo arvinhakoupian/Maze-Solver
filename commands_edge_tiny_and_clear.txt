@@ -1,0 +1,8 @@
+# Tiny solvable maze and state reset checks
+PRINT_PATH
+LOAD_MAZE .\maze_tiny_solved.txt
+SOLVE
+PRINT_PATH
+CLEAR
+SOLVE
+QUIT

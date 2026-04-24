@@ -1,0 +1,7 @@
+# Invalid loads should not block recovery after a valid load
+LOAD_MAZE .\maze_invalid_multiple_starts.txt
+LOAD_MAZE .\maze_invalid_missing_goal.txt
+LOAD_MAZE .\maze_edge_long_path.txt
+SOLVE
+PRINT_PATH
+QUIT

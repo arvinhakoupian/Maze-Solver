@@ -1,0 +1,6 @@
+# Goal is enclosed by walls
+LOAD_MAZE .\maze_edge_trap_unsolvable.txt
+PRINT_MAZE
+SOLVE
+PRINT_PATH
+QUIT
